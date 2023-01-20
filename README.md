@@ -1,0 +1,1 @@
+# moto-springboot-google-jib
